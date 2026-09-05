@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="210" viewBox="0 0 880 210">
+  <rect width="880" height="210" fill="#050805"/>
+  <rect x="10" y="10" width="860" height="190" rx="4" fill="#0a100b" stroke="#2a3d2c"/>
+  <text x="28" y="40" font-family="Consolas, ui-monospace, monospace" font-size="12" fill="#5f7a62">p-hamza@box</text>
+  <rect x="820" y="28" width="28" height="10" fill="#39ff6a">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  <text x="28" y="108" font-family="Consolas, ui-monospace, monospace" font-size="52" font-weight="700" fill="#e7ffe9">P-HAMZA</text>
+  <rect x="286" y="78" width="12" height="34" fill="#c8ff4d">
+    <animate attributeName="opacity" values="1;0;1" dur="0.72s" repeatCount="indefinite"/>
+  </rect>
+  <text x="28" y="148" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#c8ff4d">tiklama dongusu? kesiyorum.</text>
+  <text x="28" y="180" font-family="Consolas, ui-monospace, monospace" font-size="13" fill="#6d8a70">C#  |  windows tool  |  oyun isi  |  tr/en</text>
+</svg>

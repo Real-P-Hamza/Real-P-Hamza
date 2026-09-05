@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hud.svg" alt="p-hamza" width="880">
+  <img src="phamza.svg" alt="p-hamza" width="880">
 </p>
 
 <p align="center">
