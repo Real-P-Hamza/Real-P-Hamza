@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="banner.svg" alt="p-hamza" width="880">
+  <img src="banner.svg?v=2" alt="p-hamza" width="880">
 </p>
 
 <p align="center">
-  <img src="talat.gif" alt="" width="380">
+  <img src="talat.gif?v=2" alt="" width="380">
 </p>
 
 <p align="center">
-  <img src="boot.svg" alt="whoami" width="880">
+  <img src="boot.svg?v=2" alt="whoami" width="880">
 </p>
 
 <p align="center">
-  <img src="cuts.svg" alt="kesilen isler" width="880">
+  <img src="cuts.svg?v=2" alt="kesilen isler" width="880">
 </p>
 
 <p align="center">
-  <img src="kit.svg" alt="kit" width="880">
+  <img src="kit.svg?v=2" alt="kit" width="880">
 </p>
 
 <p align="center">
-  <img src="now.svg" alt="su an" width="880">
+  <img src="now.svg?v=2" alt="su an" width="880">
 </p>
 
 takma ad yeter. cv yok, uzun bio yok.

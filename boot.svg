@@ -6,6 +6,10 @@
     <animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/>
   </rect>
 
+  <rect x="14" y="52" width="852" height="22" fill="#39ff6a" opacity="0.08">
+    <animate attributeName="y" values="52;76;108;132;156;180;52" dur="8s" repeatCount="indefinite"/>
+  </rect>
+
   <text font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#8cff9a">
     <tspan x="28" y="72">$ whoami</tspan>
     <tspan x="28" y="96" fill="#e7ffe9">p-hamza</tspan>
@@ -14,14 +18,7 @@
     <tspan x="28" y="176" fill="#e7ffe9">C# yapiyorum. windows. kucuk arac. oyun.</tspan>
     <tspan x="28" y="200" fill="#6d8a70">passionate developer degilim. sikilan isi kesiyorum.</tspan>
   </text>
-
-  <!-- reveal wipe so it feels typed, not dumped -->
-  <rect x="20" y="54" width="840" height="160" fill="#0a100b">
-    <animate attributeName="y" values="54;54;74;98;128;152;176;200;214;214;54" keyTimes="0;0.07;0.14;0.24;0.34;0.46;0.56;0.66;0.74;0.92;1" dur="11s" repeatCount="indefinite"/>
-    <animate attributeName="height" values="160;160;140;116;86;62;38;14;0;0;160" keyTimes="0;0.07;0.14;0.24;0.34;0.46;0.56;0.66;0.74;0.92;1" dur="11s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="28" y="58" width="10" height="16" fill="#c8ff4d">
-    <animate attributeName="y" values="58;58;82;106;136;160;184;200;200;200;58" keyTimes="0;0.07;0.14;0.24;0.34;0.46;0.56;0.66;0.74;0.92;1" dur="11s" repeatCount="indefinite"/>
+  <rect x="248" y="188" width="10" height="16" fill="#c8ff4d">
     <animate attributeName="opacity" values="1;0;1" dur="0.55s" repeatCount="indefinite"/>
   </rect>
 </svg>
