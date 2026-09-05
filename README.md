@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="talat.gif?v=2" alt="" width="380">
-</p>
-
-<p align="center">
   <img src="boot.svg?v=2" alt="whoami" width="880">
 </p>
 
