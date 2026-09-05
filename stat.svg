@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="150" viewBox="0 0 880 150">
+  <rect width="880" height="150" fill="#060907"/>
+  <rect x="10" y="10" width="860" height="130" rx="5" fill="#0b110c" stroke="#2c3f30"/>
+  <rect x="16" y="16" width="848" height="5" fill="#62c878" opacity="0.12">
+    <animate attributeName="y" values="16;126;16" dur="3.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <circle cx="40" cy="56" r="5" fill="#62c878">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="60" y="62" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#d7ead9">building</text>
+  <text x="168" y="62" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#62c878">
+    <animate attributeName="opacity" values="0.2;1;1;0.2" dur="1.2s" repeatCount="indefinite"/>...
+  </text>
+
+  <text x="28" y="96" font-family="Consolas, ui-monospace, monospace" font-size="14" fill="#8fbf96">next   duzgun bir tool repo</text>
+  <text x="28" y="122" font-family="Consolas, ui-monospace, monospace" font-size="13" fill="#6b8570">yildiz basmak zorunda degilsin. bakip gec de olur.</text>
+
+  <rect x="560" y="48" width="280" height="10" rx="5" fill="#1a2a1c"/>
+  <rect x="560" y="48" width="70" height="10" rx="5" fill="#62c878">
+    <animate attributeName="width" values="40;260;90;200;40" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
+</svg>

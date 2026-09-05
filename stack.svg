@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="176" viewBox="0 0 880 176">
+  <rect width="880" height="176" fill="#060907"/>
+  <rect x="10" y="10" width="860" height="156" rx="5" fill="#0b110c" stroke="#2c3f30"/>
+  <rect x="28" y="86" width="824" height="3" fill="#1f3324"/>
+  <rect x="28" y="86" width="80" height="3" fill="#62c878">
+    <animate attributeName="x" values="28;772;28" dur="3.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="Consolas, ui-monospace, monospace" text-anchor="middle">
+    <g>
+      <rect x="40" y="28" width="180" height="120" rx="6" fill="#101812" stroke="#62c878" stroke-width="1.3">
+        <animate attributeName="stroke-opacity" values="1;0.25;0.25;0.25;1" dur="3.6s" repeatCount="indefinite"/>
+      </rect>
+      <text x="130" y="78" font-size="22" fill="#d7ead9">C#</text>
+      <text x="130" y="108" font-size="12" fill="#6b8570">ana dil</text>
+    </g>
+    <g>
+      <rect x="246" y="28" width="180" height="120" rx="6" fill="#101812" stroke="#62c878" stroke-width="1.3">
+        <animate attributeName="stroke-opacity" values="0.25;1;0.25;0.25;0.25" dur="3.6s" repeatCount="indefinite"/>
+      </rect>
+      <text x="336" y="78" font-size="22" fill="#d7ead9">.NET</text>
+      <text x="336" y="108" font-size="12" fill="#6b8570">ev sahibi</text>
+    </g>
+    <g>
+      <rect x="452" y="28" width="180" height="120" rx="6" fill="#101812" stroke="#62c878" stroke-width="1.3">
+        <animate attributeName="stroke-opacity" values="0.25;0.25;1;0.25;0.25" dur="3.6s" repeatCount="indefinite"/>
+      </rect>
+      <text x="542" y="78" font-size="22" fill="#d7ead9">Windows</text>
+      <text x="542" y="108" font-size="12" fill="#6b8570">calistigim yer</text>
+    </g>
+    <g>
+      <rect x="658" y="28" width="180" height="120" rx="6" fill="#101812" stroke="#62c878" stroke-width="1.3">
+        <animate attributeName="stroke-opacity" values="0.25;0.25;0.25;1;0.25" dur="3.6s" repeatCount="indefinite"/>
+      </rect>
+      <text x="748" y="78" font-size="22" fill="#d7ead9">VS</text>
+      <text x="748" y="108" font-size="12" fill="#6b8570">kirarim, derlerim</text>
+    </g>
+  </g>
+</svg>

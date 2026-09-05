@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="220" viewBox="0 0 880 220">
+  <rect width="880" height="220" fill="#060907"/>
+  <rect x="10" y="10" width="860" height="200" rx="5" fill="#0b110c" stroke="#2c3f30"/>
+  <rect x="16" y="16" width="848" height="6" fill="#62c878" opacity="0.12">
+    <animate attributeName="y" values="16;196;16" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="28" y="52" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#d7ead9">takma ad yeter. cv yok, uzun bio yok.</text>
+  <text x="28" y="84" font-family="Consolas, ui-monospace, monospace" font-size="15" fill="#8fbf96">ayni isi 2 kere tikliyorsam C# ile kestiriyorum.</text>
+  <text x="28" y="112" font-family="Consolas, ui-monospace, monospace" font-size="15" fill="#8fbf96">windows, kucuk arac, oyun isi. gerisini oyna.</text>
+  <text x="28" y="140" font-family="Consolas, ui-monospace, monospace" font-size="14" fill="#6b8570">isim yok. sehir yok. yuz yok. handle yeter.</text>
+  <text x="28" y="168" font-family="Consolas, ui-monospace, monospace" font-size="14" fill="#6b8570">uzun yol varsa yanlis yoldur.</text>
+  <rect x="28" y="186" width="9" height="16" fill="#62c878">
+    <animate attributeName="opacity" values="1;0.12;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+</svg>

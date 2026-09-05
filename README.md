@@ -7,25 +7,25 @@
 </p>
 
 <p align="center">
-  <img src="mid.svg" alt="yazi" width="880">
+  <img src="note.svg" alt="yazi" width="880">
 </p>
 
 <p align="center">
-  <img src="who.svg" alt="whoami" width="880">
+  <img src="id.svg" alt="whoami" width="880">
 </p>
 
 <p align="center">
-  <img src="cut.svg" alt="kes" width="880">
+  <img src="jobs.svg" alt="kes" width="880">
 </p>
 
 <p align="center">
-  <img src="pack.svg" alt="kit" width="880">
+  <img src="stack.svg" alt="kit" width="880">
 </p>
 
 <p align="center">
-  <img src="live.svg" alt="now" width="880">
+  <img src="stat.svg" alt="now" width="880">
 </p>
 
 <p align="center">
-  <img src="end.svg" alt="end" width="880">
+  <img src="bye.svg" alt="end" width="880">
 </p>

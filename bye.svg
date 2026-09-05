@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="118" viewBox="0 0 880 118">
+  <rect width="880" height="118" fill="#060907"/>
+  <rect x="10" y="10" width="860" height="98" rx="5" fill="#0b110c" stroke="#2c3f30"/>
+  <rect x="16" y="16" width="848" height="4" fill="#3d6a48" opacity="0.16">
+    <animate attributeName="y" values="16;96;16" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="28" y="52" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#d7ead9">kisa yol. harita yok.</text>
+  <text x="28" y="82" font-family="Consolas, ui-monospace, monospace" font-size="15" fill="#8fbf96">gerisini oyna.</text>
+  <rect x="178" y="66" width="9" height="18" fill="#62c878">
+    <animate attributeName="opacity" values="1;0.12;1" dur="0.8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
