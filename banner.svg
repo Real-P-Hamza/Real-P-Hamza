@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="220" viewBox="0 0 880 220" role="img" aria-label="P-Hamza">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1110"/>
+      <stop offset="1" stop-color="#121a14"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7dffa1"/>
+      <stop offset="1" stop-color="#c8ff4d"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="880" height="220" fill="url(#bg)"/>
+  <rect x="10" y="10" width="860" height="200" fill="none" stroke="url(#edge)" stroke-width="1.4"/>
+  <rect x="16" y="16" width="848" height="188" fill="none" stroke="#243028" stroke-width="1"/>
+
+  <text x="36" y="42" font-family="Consolas, ui-monospace, monospace" font-size="12" fill="#6f8a74" letter-spacing="2">HANDLE // NO NAME // NO MAP</text>
+  <text x="844" y="42" text-anchor="end" font-family="Consolas, ui-monospace, monospace" font-size="12" fill="#7dffa1" letter-spacing="2">ONLINE</text>
+  <circle cx="790" cy="38" r="4" fill="#7dffa1">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="36" y="108" font-family="Consolas, ui-monospace, monospace" font-size="54" font-weight="700" fill="#e8ffe8" letter-spacing="4">P-HAMZA</text>
+  <rect x="292" y="78" width="14" height="36" fill="#c8ff4d">
+    <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="36" y="148" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#c8ff4d">
+    <tspan>
+      I cut the long way down.
+      <animate attributeName="opacity" values="1;1;0;0;0;0" dur="9s" repeatCount="indefinite"/>
+    </tspan>
+  </text>
+  <text x="36" y="148" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#c8ff4d">
+    <tspan>
+      Uzun yolu kisaltirim.
+      <animate attributeName="opacity" values="0;0;1;1;0;0" dur="9s" repeatCount="indefinite"/>
+    </tspan>
+  </text>
+  <text x="36" y="148" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#c8ff4d">
+    <tspan>
+      Less clicks. More work.
+      <animate attributeName="opacity" values="0;0;0;0;1;1" dur="9s" repeatCount="indefinite"/>
+    </tspan>
+  </text>
+
+  <text x="36" y="186" font-family="Consolas, ui-monospace, monospace" font-size="13" fill="#6f8a74">C#  |  Windows tools  |  game-adjacent stuff  |  TR/EN</text>
+  <text x="844" y="186" text-anchor="end" font-family="Consolas, ui-monospace, monospace" font-size="13" fill="#6f8a74">v0.1 public</text>
+</svg>
