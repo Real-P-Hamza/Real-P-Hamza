@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="talatfx.png" alt="" width="560">
+  <img src="talatascii.png" alt="" width="560">
 </p>
 
 <p align="center">
