@@ -23,5 +23,5 @@
 </p>
 
 <p align="center">
-  <img src="last.svg" alt="kisa yol" width="880">
+  <img src="outro.svg" alt="kisa yol" width="880">
 </p>
