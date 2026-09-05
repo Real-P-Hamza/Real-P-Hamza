@@ -1,36 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="168" viewBox="0 0 880 168" role="img" aria-label="kit">
-  <rect width="880" height="168" fill="#050805"/>
-  <rect x="10" y="10" width="860" height="148" rx="4" fill="#0a100b" stroke="#2a3d2c"/>
-  <text x="28" y="38" font-family="Consolas, ui-monospace, monospace" font-size="13" fill="#6d8a70">// loadout degil, evde ne varsa o</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="210" viewBox="0 0 880 210">
+  <rect width="880" height="210" fill="#060907"/>
+  <rect x="10" y="10" width="860" height="190" rx="5" fill="#0b110c" stroke="#2c3f30"/>
+  <text x="28" y="38" font-family="Consolas, ui-monospace, monospace" font-size="12" fill="#6b8570">// evde ne varsa o. shopping list degil.</text>
 
-  <g font-family="Consolas, ui-monospace, monospace" font-size="18" text-anchor="middle">
+  <g font-family="Consolas, ui-monospace, monospace" text-anchor="middle">
     <g>
-      <rect x="28" y="56" width="196" height="78" rx="6" fill="#122016" stroke="#39ff6a" stroke-width="1.4">
-        <animate attributeName="stroke-opacity" values="1;0.25;0.25;0.25;1" dur="4.8s" repeatCount="indefinite"/>
+      <rect x="28" y="54" width="196" height="128" rx="5" fill="#101812" stroke="#3d6a48" stroke-width="1.2">
+        <animate attributeName="stroke-opacity" values="1;0.28;0.28;0.28;1" dur="7s" repeatCount="indefinite"/>
       </rect>
-      <text x="126" y="90" fill="#e7ffe9">C#</text>
-      <text x="126" y="114" font-size="12" fill="#8cff9a">ana dil. baska masal yok</text>
+      <text x="126" y="88" font-size="20" fill="#d7ead9">C#</text>
+      <text x="126" y="114" font-size="12" fill="#8fbf96">ana dil</text>
+      <text x="126" y="136" font-size="11" fill="#6b8570">desktop tool</text>
+      <text x="126" y="156" font-size="11" fill="#6b8570">baska masal yok</text>
     </g>
     <g>
-      <rect x="236" y="56" width="196" height="78" rx="6" fill="#122016" stroke="#39ff6a" stroke-width="1.4">
-        <animate attributeName="stroke-opacity" values="0.25;1;0.25;0.25;0.25" dur="4.8s" repeatCount="indefinite"/>
+      <rect x="236" y="54" width="196" height="128" rx="5" fill="#101812" stroke="#3d6a48" stroke-width="1.2">
+        <animate attributeName="stroke-opacity" values="0.28;1;0.28;0.28;0.28" dur="7s" repeatCount="indefinite"/>
       </rect>
-      <text x="334" y="90" fill="#e7ffe9">.NET</text>
-      <text x="334" y="114" font-size="12" fill="#8cff9a">c# bunun icinde</text>
+      <text x="334" y="88" font-size="20" fill="#d7ead9">.NET</text>
+      <text x="334" y="114" font-size="12" fill="#8fbf96">ev sahibi</text>
+      <text x="334" y="136" font-size="11" fill="#6b8570">C# bunun icinde</text>
+      <text x="334" y="156" font-size="11" fill="#6b8570">framework hikayesi yok</text>
     </g>
     <g>
-      <rect x="444" y="56" width="196" height="78" rx="6" fill="#122016" stroke="#39ff6a" stroke-width="1.4">
-        <animate attributeName="stroke-opacity" values="0.25;0.25;1;0.25;0.25" dur="4.8s" repeatCount="indefinite"/>
+      <rect x="444" y="54" width="196" height="128" rx="5" fill="#101812" stroke="#3d6a48" stroke-width="1.2">
+        <animate attributeName="stroke-opacity" values="0.28;0.28;1;0.28;0.28" dur="7s" repeatCount="indefinite"/>
       </rect>
-      <text x="542" y="90" fill="#e7ffe9">Windows</text>
-      <text x="542" y="114" font-size="12" fill="#8cff9a">linux rozeti asmam</text>
+      <text x="542" y="88" font-size="20" fill="#d7ead9">Windows</text>
+      <text x="542" y="114" font-size="12" fill="#8fbf96">calistigim yer</text>
+      <text x="542" y="136" font-size="11" fill="#6b8570">linux rozeti asmam</text>
+      <text x="542" y="156" font-size="11" fill="#6b8570">yalan olmasin</text>
     </g>
     <g>
-      <rect x="652" y="56" width="196" height="78" rx="6" fill="#122016" stroke="#39ff6a" stroke-width="1.4">
-        <animate attributeName="stroke-opacity" values="0.25;0.25;0.25;1;0.25" dur="4.8s" repeatCount="indefinite"/>
+      <rect x="652" y="54" width="196" height="128" rx="5" fill="#101812" stroke="#3d6a48" stroke-width="1.2">
+        <animate attributeName="stroke-opacity" values="0.28;0.28;0.28;1;0.28" dur="7s" repeatCount="indefinite"/>
       </rect>
-      <text x="750" y="90" fill="#e7ffe9">VS</text>
-      <text x="750" y="114" font-size="12" fill="#8cff9a">kirarim, tekrar derlerim</text>
+      <text x="750" y="88" font-size="20" fill="#d7ead9">VS</text>
+      <text x="750" y="114" font-size="12" fill="#8fbf96">kirarim</text>
+      <text x="750" y="136" font-size="11" fill="#6b8570">tekrar derlerim</text>
+      <text x="750" y="156" font-size="11" fill="#6b8570">o da bir dongu</text>
     </g>
   </g>
 </svg>

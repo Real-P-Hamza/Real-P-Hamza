@@ -1,29 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="210" viewBox="0 0 880 210">
-  <rect width="880" height="210" fill="#050805"/>
-  <rect x="10" y="10" width="860" height="190" rx="4" fill="#0a100b" stroke="#2a3d2c"/>
-  <text x="28" y="40" font-family="Consolas, ui-monospace, monospace" font-size="12" fill="#5f7a62">p-hamza@box</text>
-  <rect x="820" y="28" width="28" height="10" fill="#39ff6a">
-    <animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="248" viewBox="0 0 880 248">
+  <rect width="880" height="248" fill="#060907"/>
+  <rect x="10" y="10" width="860" height="228" rx="5" fill="#0b110c" stroke="#2c3f30"/>
+  <rect x="14" y="14" width="852" height="10" fill="#3d6a48" opacity="0.10">
+    <animate attributeName="y" values="14;220;14" dur="9s" repeatCount="indefinite"/>
   </rect>
-  <text x="28" y="108" font-family="Consolas, ui-monospace, monospace" font-size="52" font-weight="700" fill="#e7ffe9">P-HAMZA</text>
-  <rect x="286" y="78" width="12" height="34" fill="#c8ff4d">
-    <animate attributeName="opacity" values="1;0;1" dur="0.72s" repeatCount="indefinite"/>
+
+  <text x="28" y="38" font-family="Consolas, ui-monospace, monospace" font-size="12" fill="#6b8570">session  p-hamza@box   tty1   tr/en</text>
+  <circle cx="792" cy="34" r="4" fill="#62c878">
+    <animate attributeName="opacity" values="0.95;0.25;0.95" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="848" y="38" text-anchor="end" font-family="Consolas, ui-monospace, monospace" font-size="12" fill="#7f9a82">
+    live
+    <animate attributeName="opacity" values="0.9;0.35;0.9" dur="1.8s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="28" y="108" font-family="Consolas, ui-monospace, monospace" font-size="48" font-weight="700" fill="#d7ead9">P-HAMZA</text>
+  <rect x="274" y="80" width="10" height="30" fill="#62c878">
+    <animate attributeName="opacity" values="0.9;0.15;0.9" dur="1.05s" repeatCount="indefinite"/>
   </rect>
-  <text x="28" y="148" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#c8ff4d">
-    tiklama dongusu? kesiyorum.
-    <animate attributeName="opacity" values="1;1;0;0;0;0;0;0" dur="10s" repeatCount="indefinite"/>
+
+  <text x="28" y="148" font-family="Consolas, ui-monospace, monospace" font-size="15" fill="#8fbf96">
+    tiklama dongusu varsa isi yanlis kurmussundur.
+    <animate attributeName="opacity" values="1;1;0;0;0;0;0;0" dur="12s" repeatCount="indefinite"/>
   </text>
-  <text x="28" y="148" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#c8ff4d">
-    cv yok. linkedin yok. bu kadar.
-    <animate attributeName="opacity" values="0;0;1;1;0;0;0;0" dur="10s" repeatCount="indefinite"/>
+  <text x="28" y="148" font-family="Consolas, ui-monospace, monospace" font-size="15" fill="#8fbf96">
+    cv yok. linkedin yok. uzun bio yok. handle yeter.
+    <animate attributeName="opacity" values="0;0;1;1;0;0;0;0" dur="12s" repeatCount="indefinite"/>
   </text>
-  <text x="28" y="148" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#c8ff4d">
-    C# yazip sonra oyuna kaciyorum.
-    <animate attributeName="opacity" values="0;0;0;0;1;1;0;0" dur="10s" repeatCount="indefinite"/>
+  <text x="28" y="148" font-family="Consolas, ui-monospace, monospace" font-size="15" fill="#8fbf96">
+    C# ile kestiriyorum, sonra oyuna kaciyorum.
+    <animate attributeName="opacity" values="0;0;0;0;1;1;0;0" dur="12s" repeatCount="indefinite"/>
   </text>
-  <text x="28" y="148" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#c8ff4d">
-    uzun yol varsa yanlis yoldur.
-    <animate attributeName="opacity" values="0;0;0;0;0;0;1;1" dur="10s" repeatCount="indefinite"/>
+  <text x="28" y="148" font-family="Consolas, ui-monospace, monospace" font-size="15" fill="#8fbf96">
+    uzun yol varsa yanlis yoldur. kisa yolu yaz.
+    <animate attributeName="opacity" values="0;0;0;0;0;0;1;1" dur="12s" repeatCount="indefinite"/>
   </text>
-  <text x="28" y="180" font-family="Consolas, ui-monospace, monospace" font-size="13" fill="#6d8a70">C#  |  windows tool  |  oyun isi  |  tr/en</text>
+
+  <text x="28" y="186" font-family="Consolas, ui-monospace, monospace" font-size="13" fill="#6b8570">stack   C#  .NET  Windows  VS</text>
+  <text x="28" y="210" font-family="Consolas, ui-monospace, monospace" font-size="13" fill="#6b8570">mode    kucuk arac  /  oyun isi  /  sikilan isi kes</text>
+  <text x="848" y="210" text-anchor="end" font-family="Consolas, ui-monospace, monospace" font-size="12" fill="#5d7361">v0.3  no-cv</text>
 </svg>

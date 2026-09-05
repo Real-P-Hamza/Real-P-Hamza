@@ -22,6 +22,6 @@
   <img src="now.svg" alt="su an" width="880">
 </p>
 
-takma ad yeter. cv yok, uzun bio yok.
-
-aynı işi 2 kere tıklıyorsam C# ile kestiriyorum. gerisini oyna.
+<p align="center">
+  <img src="last.svg" alt="kisa yol" width="880">
+</p>
