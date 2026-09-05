@@ -12,7 +12,7 @@ policy        no real name, no city, no face
 
 I don’t publish a life story here. I publish the cut.
 
-Aynı işi ikinci kez tıklıyorsam, o iş yanlış tasarlanmıştır. Uzun yolu kısaltırım: tıkla-bekle-tekrar döngüsünü bir C# aracına sıkıştırırım. Oyun tarafında da aynı kafa — menü, ayar, rütin, sunucu işi. Sıkıcı olanı otomatikleştir, gerisini oyna.
+Aynı işi ikinci kez tıklıyorsam, o iş yanlış tasarlanmıştır. Uzun yolu kısaltırım: tıkla-bekle-tekrar döngüsünü bir C# aracına sıkıştırırım. Oyun tarafında da aynı kafa — menü, ayar, rutin, sunucu işi. Sıkıcı olanı otomatikleştir, gerisini oyna.
 
 ---
 
