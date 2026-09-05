@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="phamza.svg" alt="p-hamza" width="880">
+  <img src="sig.svg" alt="p-hamza" width="880">
 </p>
 
 <p align="center">
@@ -7,21 +7,21 @@
 </p>
 
 <p align="center">
-  <img src="boot.svg" alt="whoami" width="880">
+  <img src="who.svg" alt="whoami" width="880">
 </p>
 
 <p align="center">
-  <img src="cuts.svg" alt="kesilen isler" width="880">
+  <img src="cut.svg" alt="kes" width="880">
 </p>
 
 <p align="center">
-  <img src="kit.svg" alt="kit" width="880">
+  <img src="pack.svg" alt="kit" width="880">
 </p>
 
 <p align="center">
-  <img src="now.svg" alt="su an" width="880">
+  <img src="live.svg" alt="now" width="880">
 </p>
 
 <p align="center">
-  <img src="outro.svg" alt="kisa yol" width="880">
+  <img src="end.svg" alt="end" width="880">
 </p>
