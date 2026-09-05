@@ -1,59 +1,73 @@
-<div align="center">
+<p align="center">
+  <img src="banner.svg" alt="P-HAMZA" width="880">
+</p>
 
-# `$ p-hamza`
+```
+whoami        p-hamza
+lang          tr / en
+stack         C#
+surface       Windows
+policy        no real name, no city, no face
+```
 
-**tools · games · shorter paths**
+I don’t publish a life story here. I publish the cut.
 
-[![GitHub](https://img.shields.io/badge/GITHUB-REAL--P--HAMZA-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2d333b)](https://github.com/Real-P-Hamza)
-[![C#](https://img.shields.io/badge/STACK-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=2d333b)](https://github.com/Real-P-Hamza)
-
----
-
-🎮 Tools & Games &nbsp;·&nbsp; ⚙️ Automation &nbsp;·&nbsp; 🧠 C# &nbsp;·&nbsp; 🌐 TR / EN
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=E879F9&center=true&vCenter=true&width=720&height=50&repeat=true&lines=I+cut+the+long+way+down.;Uzun+yolu+k%C4%B1salt%C4%B1r%C4%B1m.;Long+paths.+Shorter+routes.;C%23+%C2%B7+tools+%26+games." alt="typing tagline" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=2000&color=A78BFA&center=true&vCenter=true&width=680&height=36&repeat=true&lines=Less+clicks.+More+work.;Daha+az+t%C4%B1klama.+Daha+%C3%A7ok+i%C5%9F.;Build+once.+Reuse+forever." alt="typing subline" />
+Aynı işi ikinci kez tıklıyorsam, o iş yanlış tasarlanmıştır. Uzun yolu kısaltırım: tıkla-bekle-tekrar döngüsünü bir C# aracına sıkıştırırım. Oyun tarafında da aynı kafa — menü, ayar, rütin, sunucu işi. Sıkıcı olanı otomatikleştir, gerisini oyna.
 
 ---
 
-</div>
+## Ne kesiyorum
 
-### 🛠️ Tech Stack
+| Kesik | Anlamı |
+| --- | --- |
+| Tekrarlayan tıklama | Bir kere yaz, sonsuz kullan |
+| 12 adımlık kurulum | 1 exe / 1 script |
+| “Neredeydi o ayar?” | Küçük bir Windows aracı |
+| Oyun / sunucu rutini | Elle yapılmayacak kadar sık olan her şey |
 
-<div align="center">
-
-**💻 Languages**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-**🖥️ Environment**
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
-**🔧 Tools**
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+I take a messy desktop path and leave a button. That’s the whole profile.
 
 ---
 
-<div align="center">
+## Loadout
 
-### ⚡ What I do
+Not a shopping list. This is what actually touches the metal.
 
-I take the long, boring path on a machine and cut it down to a tool.  
-Bilgisayarda uzayan işleri kısaltırım — tıkla, bekle, tekrar etme.
+- **C#** — ana dil. Desktop tool, küçük utility, Windows tarafı.
+- **.NET** — C#’ın ev sahibi. Fazla framework hikâyesi yok.
+- **Windows** — çalıştığım yer. Linux rozeti asmam, yalan olmasın.
+- **Visual Studio** — derler, kırarım, tekrar derlerim.
+- **GitHub** — public yüz. Handle yeter.
 
-`scripts` · `desktop tools` · `game stuff` · `C#`
+```
+[ C# ]====[ .NET ]====[ Windows ]
+              |
+         small tools
+         game-adjacent
+```
 
-<br />
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=C4B5FD&center=true&vCenter=true&width=640&height=32&lines=Public+repos+coming.+Watch+this+space." alt="coming soon" />
+## Çalışma kuralı
 
-</div>
+1. İki kere yaptıysan, üçüncüyü kodla.
+2. İsim, şehir, foto yok. Kod konuşsun.
+3. Repo boşsa “full stack ninja” yazmam.
+4. Şablon README kopyalamam. Bu sayfa da kopya değil.
+5. TR ve EN karışır. Cümle hangi dilde doğarsa o dilde kalır.
+
+---
+
+## Şu an
+
+Public taraf yeni. Profil doldu, araçlar sırada. İzle, yıldız basma zorunluluğun yok.
+
+```
+status   building in public
+next     first real tool repo
+ping     only here → github.com/Real-P-Hamza
+```
+
+---
+
+<p align="center"><sub>p-hamza · the short path · no map</sub></p>
