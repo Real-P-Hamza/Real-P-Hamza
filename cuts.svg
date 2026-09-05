@@ -1,54 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="318" viewBox="0 0 880 318">
-  <rect width="880" height="318" fill="#060907"/>
-  <rect x="10" y="10" width="860" height="298" rx="5" fill="#0b110c" stroke="#2c3f30"/>
-  <text x="28" y="38" font-family="Consolas, ui-monospace, monospace" font-size="12" fill="#6b8570">// ne kesiyorum</text>
-  <text x="848" y="38" text-anchor="end" font-family="Consolas, ui-monospace, monospace" font-size="12" fill="#5d7361">ayni seyi 2 kere tiklama</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="168" viewBox="0 0 880 168">
+  <rect width="880" height="168" fill="#060907"/>
+  <rect x="10" y="10" width="860" height="148" rx="5" fill="#0b110c" stroke="#2c3f30"/>
 
-  <g font-family="Consolas, ui-monospace, monospace" font-size="15">
+  <rect x="20" y="18" width="840" height="4" fill="#3d6a48" opacity="0.16">
+    <animate attributeName="y" values="18;146;18" dur="3.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="Consolas, ui-monospace, monospace" font-size="15" fill="#d7ead9">
     <g>
-      <rect x="28" y="54" width="824" height="44" rx="3" fill="#101812"/>
-      <rect x="28" y="54" width="5" height="44" fill="#62c878">
-        <animate attributeName="opacity" values="1;0.2;0.2;0.2;0.2;1" dur="8s" repeatCount="indefinite"/>
+      <rect x="28" y="36" width="400" height="50" rx="4" fill="#101812"/>
+      <rect x="28" y="36" width="6" height="50" fill="#62c878">
+        <animate attributeName="opacity" values="1;0.2;0.2;0.2;1" dur="4s" repeatCount="indefinite"/>
       </rect>
-      <text x="48" y="74" fill="#d7ead9">tekrar tiklama</text>
-      <text x="848" y="74" text-anchor="end" fill="#8fbf96">yaz  ·  unut  ·  kullan</text>
-      <text x="48" y="92" font-size="12" fill="#6b8570">ayni butona 12 kere basmak bir is degil, tasarim hatasi</text>
+      <text x="48" y="67">tikla  →  yaz</text>
     </g>
     <g>
-      <rect x="28" y="104" width="824" height="44" rx="3" fill="#101812"/>
-      <rect x="28" y="104" width="5" height="44" fill="#62c878">
-        <animate attributeName="opacity" values="0.2;1;0.2;0.2;0.2;0.2" dur="8s" repeatCount="indefinite"/>
+      <rect x="452" y="36" width="400" height="50" rx="4" fill="#101812"/>
+      <rect x="452" y="36" width="6" height="50" fill="#62c878">
+        <animate attributeName="opacity" values="0.2;1;0.2;0.2;0.2" dur="4s" repeatCount="indefinite"/>
       </rect>
-      <text x="48" y="124" fill="#d7ead9">12 adimlik kurulum</text>
-      <text x="848" y="124" text-anchor="end" fill="#8fbf96">1 exe. bitti.</text>
-      <text x="48" y="142" font-size="12" fill="#6b8570">readme 8 paragraf, sen 8 kere kopyala. hayir.</text>
+      <text x="472" y="67">kurulum  →  exe</text>
     </g>
     <g>
-      <rect x="28" y="154" width="824" height="44" rx="3" fill="#101812"/>
-      <rect x="28" y="154" width="5" height="44" fill="#62c878">
-        <animate attributeName="opacity" values="0.2;0.2;1;0.2;0.2;0.2" dur="8s" repeatCount="indefinite"/>
+      <rect x="28" y="98" width="400" height="50" rx="4" fill="#101812"/>
+      <rect x="28" y="98" width="6" height="50" fill="#62c878">
+        <animate attributeName="opacity" values="0.2;0.2;1;0.2;0.2" dur="4s" repeatCount="indefinite"/>
       </rect>
-      <text x="48" y="174" fill="#d7ead9">"neredeydi o ayar"</text>
-      <text x="848" y="174" text-anchor="end" fill="#8fbf96">kucuk windows araci</text>
-      <text x="48" y="192" font-size="12" fill="#6b8570">menude kaybolan seyi her seferinde aramiyorum</text>
+      <text x="48" y="129">ayar  →  arac</text>
     </g>
     <g>
-      <rect x="28" y="204" width="824" height="44" rx="3" fill="#101812"/>
-      <rect x="28" y="204" width="5" height="44" fill="#62c878">
-        <animate attributeName="opacity" values="0.2;0.2;0.2;1;0.2;0.2" dur="8s" repeatCount="indefinite"/>
+      <rect x="452" y="98" width="400" height="50" rx="4" fill="#101812"/>
+      <rect x="452" y="98" width="6" height="50" fill="#62c878">
+        <animate attributeName="opacity" values="0.2;0.2;0.2;1;0.2" dur="4s" repeatCount="indefinite"/>
       </rect>
-      <text x="48" y="224" fill="#d7ead9">oyun / sunucu rutini</text>
-      <text x="848" y="224" text-anchor="end" fill="#8fbf96">elle yapmam</text>
-      <text x="48" y="242" font-size="12" fill="#6b8570">her gun ayni 6 tik. ucuncu gunde kod.</text>
-    </g>
-    <g>
-      <rect x="28" y="254" width="824" height="44" rx="3" fill="#101812"/>
-      <rect x="28" y="254" width="5" height="44" fill="#62c878">
-        <animate attributeName="opacity" values="0.2;0.2;0.2;0.2;1;0.2" dur="8s" repeatCount="indefinite"/>
-      </rect>
-      <text x="48" y="274" fill="#d7ead9">daginik masaustu yolu</text>
-      <text x="848" y="274" text-anchor="end" fill="#8fbf96">bir tus birakiyorum</text>
-      <text x="48" y="292" font-size="12" fill="#6b8570">uzun yol varsa yanlis yoldur. kisa yolu C# ile yaz.</text>
+      <text x="472" y="129">rutin  →  kod</text>
     </g>
   </g>
 </svg>

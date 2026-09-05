@@ -1,25 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="196" viewBox="0 0 880 196">
-  <rect width="880" height="196" fill="#060907"/>
-  <rect x="10" y="10" width="860" height="176" rx="5" fill="#0b110c" stroke="#2c3f30"/>
-  <text x="28" y="38" font-family="Consolas, ui-monospace, monospace" font-size="12" fill="#6b8570">// su an</text>
-  <text x="848" y="38" text-anchor="end" font-family="Consolas, ui-monospace, monospace" font-size="12" fill="#5d7361">public  ·  yeni</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="120" viewBox="0 0 880 120">
+  <rect width="880" height="120" fill="#060907"/>
+  <rect x="10" y="10" width="860" height="100" rx="5" fill="#0b110c" stroke="#2c3f30"/>
+  <rect x="16" y="16" width="848" height="5" fill="#62c878" opacity="0.12">
+    <animate attributeName="y" values="16;98;16" dur="3s" repeatCount="indefinite"/>
+  </rect>
 
-  <circle cx="40" cy="72" r="4" fill="#62c878">
-    <animate attributeName="opacity" values="0.95;0.22;0.95" dur="1.7s" repeatCount="indefinite"/>
+  <circle cx="48" cy="60" r="6" fill="#62c878">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.1s" repeatCount="indefinite"/>
   </circle>
-  <text x="58" y="77" font-family="Consolas, ui-monospace, monospace" font-size="15" fill="#d7ead9">profil acik. icerisi hala bos sayilir.</text>
+  <circle cx="48" cy="60" r="12" fill="none" stroke="#62c878" stroke-width="1">
+    <animate attributeName="r" values="8;18;8" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.45;0;0.45" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
 
-  <text x="28" y="110" font-family="Consolas, ui-monospace, monospace" font-size="14" fill="#8fbf96">next     duzgun bir tool repo</text>
-  <text x="28" y="134" font-family="Consolas, ui-monospace, monospace" font-size="14" fill="#8fbf96">
-    status
-    <tspan fill="#6b8570">   </tspan>
-    <tspan fill="#62c878">building
-      <animate attributeName="opacity" values="0.95;0.3;0.95" dur="1.8s" repeatCount="indefinite"/>
-    </tspan>
-    <tspan fill="#62c878">
-      <animate attributeName="opacity" values="0.2;1;1;0.2" dur="1.8s" repeatCount="indefinite"/>...
-    </tspan>
+  <text x="78" y="66" font-family="Consolas, ui-monospace, monospace" font-size="18" fill="#d7ead9">building</text>
+  <text x="200" y="66" font-family="Consolas, ui-monospace, monospace" font-size="18" fill="#62c878">
+    <animate attributeName="opacity" values="0.15;1;1;0.15" dur="1.2s" repeatCount="indefinite"/>...
   </text>
-  <text x="28" y="158" font-family="Consolas, ui-monospace, monospace" font-size="13" fill="#6b8570">yildiz basmak zorunda degilsin. bakip gec de olur.</text>
-  <text x="28" y="176" font-family="Consolas, ui-monospace, monospace" font-size="12" fill="#5d7361">ping  only here  →  github.com/Real-P-Hamza</text>
+
+  <rect x="560" y="52" width="280" height="10" rx="5" fill="#1a2a1c"/>
+  <rect x="560" y="52" width="70" height="10" rx="5" fill="#62c878">
+    <animate attributeName="width" values="40;260;90;200;40" dur="2.8s" repeatCount="indefinite"/>
+  </rect>
 </svg>

@@ -1,26 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="292" viewBox="0 0 880 292">
-  <rect width="880" height="292" fill="#060907"/>
-  <rect x="10" y="10" width="860" height="272" rx="5" fill="#0b110c" stroke="#2c3f30"/>
-  <text x="28" y="36" font-family="Consolas, ui-monospace, monospace" font-size="12" fill="#6b8570">~/p-hamza  ·  boot log</text>
-  <rect x="822" y="26" width="26" height="8" fill="#62c878">
-    <animate attributeName="opacity" values="0.9;0.2;0.9" dur="1.4s" repeatCount="indefinite"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="168" viewBox="0 0 880 168">
+  <rect width="880" height="168" fill="#060907"/>
+  <rect x="10" y="10" width="860" height="148" rx="5" fill="#0b110c" stroke="#2c3f30"/>
+  <rect x="16" y="20" width="848" height="6" fill="#62c878" opacity="0.12">
+    <animate attributeName="y" values="20;140;20" dur="4s" repeatCount="indefinite"/>
   </rect>
-  <rect x="16" y="50" width="848" height="18" fill="#3d6a48" opacity="0.08">
-    <animate attributeName="y" values="50;74;100;126;152;178;204;230;256;50" dur="14s" repeatCount="indefinite"/>
+  <rect x="16" y="50" width="848" height="2" fill="#3d6a48" opacity="0.18">
+    <animate attributeName="y" values="50;136;50" dur="2.6s" repeatCount="indefinite"/>
   </rect>
 
-  <text font-family="Consolas, ui-monospace, monospace" font-size="15">
-    <tspan x="28" y="72" fill="#6fbf7e">$ whoami</tspan>
-    <tspan x="28" y="96" fill="#d7ead9">p-hamza</tspan>
-    <tspan x="28" y="126" fill="#6fbf7e">$ cat ./hakkinda</tspan>
-    <tspan x="28" y="150" fill="#9fd4a8">takma ad. isim yok. sehir yok. yuz yok. numara yok.</tspan>
-    <tspan x="28" y="174" fill="#c5e6c9">C# yapiyorum. windows. kucuk arac. oyun kiyisinda is.</tspan>
-    <tspan x="28" y="198" fill="#8fbf96">ayni tiklamayi 2 kere yapmiyorum. ucuncuyu kodluyorum.</tspan>
-    <tspan x="28" y="222" fill="#6b8570">passionate developer degilim. sikilan isi kesiyorum.</tspan>
-    <tspan x="28" y="246" fill="#6b8570">repo bosken ninja yazmam. sayfa da kopya degil.</tspan>
-    <tspan x="28" y="270" fill="#5d7361">ping  sadece buradan  →  github.com/Real-P-Hamza</tspan>
+  <text x="28" y="44" font-family="Consolas, ui-monospace, monospace" font-size="13" fill="#6b8570">$ whoami</text>
+  <text x="28" y="84" font-family="Consolas, ui-monospace, monospace" font-size="28" fill="#d7ead9">p-hamza</text>
+  <rect x="178" y="62" width="10" height="24" fill="#62c878">
+    <animate attributeName="opacity" values="1;0.12;1" dur="0.8s" repeatCount="indefinite"/>
+  </rect>
+  <text x="28" y="124" font-family="Consolas, ui-monospace, monospace" font-size="14" fill="#8fbf96">
+    C# / windows
+    <animate attributeName="opacity" values="1;1;0;0" dur="4s" repeatCount="indefinite"/>
   </text>
-  <rect x="28" y="278" width="8" height="12" fill="#62c878">
-    <animate attributeName="opacity" values="0.9;0.12;0.9" dur="1.1s" repeatCount="indefinite"/>
+  <text x="28" y="124" font-family="Consolas, ui-monospace, monospace" font-size="14" fill="#8fbf96">
+    isim yok
+    <animate attributeName="opacity" values="0;0;1;1" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <rect x="720" y="118" width="120" height="6" rx="3" fill="#1a2a1c"/>
+  <rect x="720" y="118" width="40" height="6" rx="3" fill="#62c878">
+    <animate attributeName="width" values="24;110;36;90;24" dur="3.2s" repeatCount="indefinite"/>
   </rect>
 </svg>

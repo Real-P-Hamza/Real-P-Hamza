@@ -1,13 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="132" viewBox="0 0 880 132">
-  <rect width="880" height="132" fill="#060907"/>
-  <rect x="10" y="10" width="860" height="112" rx="5" fill="#0b110c" stroke="#2c3f30"/>
-  <rect x="16" y="16" width="848" height="8" fill="#3d6a48" opacity="0.10">
-    <animate attributeName="y" values="16;106;16" dur="8s" repeatCount="indefinite"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="96" viewBox="0 0 880 96">
+  <rect width="880" height="96" fill="#060907"/>
+  <rect x="10" y="10" width="860" height="76" rx="5" fill="#0b110c" stroke="#2c3f30"/>
+  <rect x="16" y="16" width="848" height="4" fill="#3d6a48" opacity="0.16">
+    <animate attributeName="y" values="16;76;16" dur="2.8s" repeatCount="indefinite"/>
   </rect>
-  <text x="28" y="48" font-family="Consolas, ui-monospace, monospace" font-size="15" fill="#c5e6c9">takma ad yeter. cv yok, uzun bio yok.</text>
-  <text x="28" y="76" font-family="Consolas, ui-monospace, monospace" font-size="15" fill="#8fbf96">ayni isi 2 kere tikliyorsam C# ile kestiriyorum. gerisini oyna.</text>
-  <text x="28" y="104" font-family="Consolas, ui-monospace, monospace" font-size="12" fill="#5d7361">p-hamza  |  kisa yol  |  harita yok</text>
-  <rect x="820" y="92" width="18" height="14" fill="#62c878">
-    <animate attributeName="opacity" values="0.85;0.15;0.85" dur="1.2s" repeatCount="indefinite"/>
+  <text x="440" y="56" text-anchor="middle" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#8fbf96">
+    kisa yol
+    <animate attributeName="opacity" values="1;1;0;0" dur="3.6s" repeatCount="indefinite"/>
+  </text>
+  <text x="440" y="56" text-anchor="middle" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#8fbf96">
+    gerisini oyna
+    <animate attributeName="opacity" values="0;0;1;1" dur="3.6s" repeatCount="indefinite"/>
+  </text>
+  <rect x="560" y="42" width="9" height="18" fill="#62c878">
+    <animate attributeName="opacity" values="1;0.1;1" dur="0.75s" repeatCount="indefinite"/>
   </rect>
 </svg>
