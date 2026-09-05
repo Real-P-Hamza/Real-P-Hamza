@@ -9,6 +9,21 @@
   <rect x="286" y="78" width="12" height="34" fill="#c8ff4d">
     <animate attributeName="opacity" values="1;0;1" dur="0.72s" repeatCount="indefinite"/>
   </rect>
-  <text x="28" y="148" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#c8ff4d">tiklama dongusu? kesiyorum.</text>
+  <text x="28" y="148" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#c8ff4d">
+    tiklama dongusu? kesiyorum.
+    <animate attributeName="opacity" values="1;1;0;0;0;0;0;0" dur="10s" repeatCount="indefinite"/>
+  </text>
+  <text x="28" y="148" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#c8ff4d">
+    cv yok. linkedin yok. bu kadar.
+    <animate attributeName="opacity" values="0;0;1;1;0;0;0;0" dur="10s" repeatCount="indefinite"/>
+  </text>
+  <text x="28" y="148" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#c8ff4d">
+    C# yazip sonra oyuna kaciyorum.
+    <animate attributeName="opacity" values="0;0;0;0;1;1;0;0" dur="10s" repeatCount="indefinite"/>
+  </text>
+  <text x="28" y="148" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#c8ff4d">
+    uzun yol varsa yanlis yoldur.
+    <animate attributeName="opacity" values="0;0;0;0;0;0;1;1" dur="10s" repeatCount="indefinite"/>
+  </text>
   <text x="28" y="180" font-family="Consolas, ui-monospace, monospace" font-size="13" fill="#6d8a70">C#  |  windows tool  |  oyun isi  |  tr/en</text>
 </svg>
