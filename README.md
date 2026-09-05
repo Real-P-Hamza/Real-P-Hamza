@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="talat.svg" alt="" width="520">
+  <img src="talat.png" alt="" width="560">
 </p>
 
 <p align="center">
