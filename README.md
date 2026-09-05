@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="jobs.svg" alt="kes" width="880">
+  <img src="work.svg" alt="kes" width="880">
 </p>
 
 <p align="center">

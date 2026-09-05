@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="200" viewBox="0 0 880 200">
+  <rect width="880" height="200" fill="#060907"/>
+  <rect x="10" y="10" width="860" height="180" rx="5" fill="#0b110c" stroke="#2c3f30"/>
+  <rect x="20" y="18" width="840" height="4" fill="#3d6a48" opacity="0.16">
+    <animate attributeName="y" values="18;176;18" dur="4.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="Consolas, ui-monospace, monospace">
+    <g>
+      <rect x="28" y="36" width="400" height="68" rx="4" fill="#101812"/>
+      <rect x="28" y="36" width="6" height="68" fill="#62c878">
+        <animate attributeName="opacity" values="1;0.2;0.2;0.2;1" dur="4.4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="48" y="66" font-size="16" fill="#d7ead9">tikla  -&gt;  yaz</text>
+      <text x="48" y="88" font-size="12" fill="#6b8570">ayni tusa 12 kere basma</text>
+    </g>
+    <g>
+      <rect x="452" y="36" width="400" height="68" rx="4" fill="#101812"/>
+      <rect x="452" y="36" width="6" height="68" fill="#62c878">
+        <animate attributeName="opacity" values="0.2;1;0.2;0.2;0.2" dur="4.4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="472" y="66" font-size="16" fill="#d7ead9">kurulum  -&gt;  exe</text>
+      <text x="472" y="88" font-size="12" fill="#6b8570">12 adimlik readme istemem</text>
+    </g>
+    <g>
+      <rect x="28" y="114" width="400" height="68" rx="4" fill="#101812"/>
+      <rect x="28" y="114" width="6" height="68" fill="#62c878">
+        <animate attributeName="opacity" values="0.2;0.2;1;0.2;0.2" dur="4.4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="48" y="144" font-size="16" fill="#d7ead9">ayar  -&gt;  arac</text>
+      <text x="48" y="166" font-size="12" fill="#6b8570">neredeydi o menu</text>
+    </g>
+    <g>
+      <rect x="452" y="114" width="400" height="68" rx="4" fill="#101812"/>
+      <rect x="452" y="114" width="6" height="68" fill="#62c878">
+        <animate attributeName="opacity" values="0.2;0.2;0.2;1;0.2" dur="4.4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="472" y="144" font-size="16" fill="#d7ead9">rutin  -&gt;  kod</text>
+      <text x="472" y="166" font-size="12" fill="#6b8570">elle yapmam, sinir bozar</text>
+    </g>
+  </g>
+</svg>
