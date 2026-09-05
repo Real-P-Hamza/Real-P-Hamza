@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="168" viewBox="0 0 880 168">
+  <rect width="880" height="168" fill="#060907"/>
+  <rect x="10" y="10" width="860" height="148" rx="5" fill="#0b110c" stroke="#2c3f30"/>
+  <rect x="16" y="16" width="848" height="6" fill="#62c878" opacity="0.12">
+    <animate attributeName="y" values="16;144;16" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="28" y="56" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#d7ead9">takma ad yeter. cv yok.</text>
+  <text x="28" y="88" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#8fbf96">ayni isi 2 kere tikliyorsam C# ile kestiriyorum.</text>
+  <text x="28" y="120" font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#8fbf96">gerisini oyna.</text>
+  <rect x="178" y="104" width="9" height="18" fill="#62c878">
+    <animate attributeName="opacity" values="1;0.12;1" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+</svg>

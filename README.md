@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="mid.svg" alt="yazi" width="880">
+</p>
+
+<p align="center">
   <img src="who.svg" alt="whoami" width="880">
 </p>
 
