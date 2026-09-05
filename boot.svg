@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="228" viewBox="0 0 880 228" role="img" aria-label="boot">
+  <rect width="880" height="228" fill="#050805"/>
+  <rect x="10" y="10" width="860" height="208" rx="4" fill="#0a100b" stroke="#2a3d2c"/>
+  <text x="28" y="36" font-family="Consolas, ui-monospace, monospace" font-size="12" fill="#5f7a62">~/p-hamza</text>
+  <rect x="820" y="24" width="28" height="10" fill="#39ff6a">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <text font-family="Consolas, ui-monospace, monospace" font-size="16" fill="#8cff9a">
+    <tspan x="28" y="72">$ whoami</tspan>
+    <tspan x="28" y="96" fill="#e7ffe9">p-hamza</tspan>
+    <tspan x="28" y="128" fill="#8cff9a">$ cat ./hakkinda</tspan>
+    <tspan x="28" y="152" fill="#c8ff4d">takma ad. isim yok. sehir yok. yuz yok.</tspan>
+    <tspan x="28" y="176" fill="#e7ffe9">C# yapiyorum. windows. kucuk arac. oyun.</tspan>
+    <tspan x="28" y="200" fill="#6d8a70">passionate developer degilim. sikilan isi kesiyorum.</tspan>
+  </text>
+
+  <!-- reveal wipe so it feels typed, not dumped -->
+  <rect x="20" y="54" width="840" height="160" fill="#0a100b">
+    <animate attributeName="y" values="54;54;74;98;128;152;176;200;214;214;54" keyTimes="0;0.07;0.14;0.24;0.34;0.46;0.56;0.66;0.74;0.92;1" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="height" values="160;160;140;116;86;62;38;14;0;0;160" keyTimes="0;0.07;0.14;0.24;0.34;0.46;0.56;0.66;0.74;0.92;1" dur="11s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="28" y="58" width="10" height="16" fill="#c8ff4d">
+    <animate attributeName="y" values="58;58;82;106;136;160;184;200;200;200;58" keyTimes="0;0.07;0.14;0.24;0.34;0.46;0.56;0.66;0.74;0.92;1" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1" dur="0.55s" repeatCount="indefinite"/>
+  </rect>
+</svg>
