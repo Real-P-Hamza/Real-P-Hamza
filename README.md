@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="talatcrt.png" alt="" width="560">
+  <img src="talatcrt.gif" alt="" width="520">
 </p>
 
 <p align="center">
