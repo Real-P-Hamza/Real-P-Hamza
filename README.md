@@ -2,6 +2,10 @@
   <img src="banner.svg" alt="P-HAMZA" width="880">
 </p>
 
+<p align="center">
+  <img src="talat.svg" alt="" width="520">
+</p>
+
 ```
 whoami        p-hamza
 lang          tr / en
