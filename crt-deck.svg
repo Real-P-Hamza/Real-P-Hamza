@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="162" viewBox="0 0 768 162" role="img" aria-label="P-Hamza Tech Stack and Telemetry">
+  <defs>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000000" opacity="0.30"/>
+    </pattern>
+    <radialGradient id="crtBg" cx="50%" cy="50%" r="72%">
+      <stop offset="0%" stop-color="#0b1a0e"/>
+      <stop offset="100%" stop-color="#030804"/>
+    </radialGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="deckClip">
+      <rect x="6" y="6" width="756" height="150" rx="5"/>
+    </clipPath>
+  </defs>
+
+  <!-- Outer Frame -->
+  <rect width="768" height="162" rx="7" fill="#020503"/>
+  <rect x="6" y="6" width="756" height="150" rx="5" fill="url(#crtBg)" stroke="#1d4426" stroke-width="1.2"/>
+
+  <!-- Corner HUD Reticles -->
+  <g stroke="#39ff6a" stroke-width="1.6" fill="none" opacity="0.75">
+    <path d="M 6 18 L 6 6 L 18 6"/>
+    <path d="M 750 6 L 762 6 L 762 18"/>
+    <path d="M 6 144 L 6 156 L 18 156"/>
+    <path d="M 750 156 L 762 156 L 762 144"/>
+  </g>
+
+  <g clip-path="url(#deckClip)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+    <!-- Header Bar -->
+    <text x="22" y="26" font-size="11" fill="#529463" letter-spacing="0.8">$ ls -la /usr/local/toolkit</text>
+    <text x="746" y="26" text-anchor="end" font-size="10.5" fill="#4b8a5b">STACK // 6 MODULES MOUNTED</text>
+    <line x1="18" y1="35" x2="750" y2="35" stroke="#17381f" stroke-width="1"/>
+
+    <!-- 6 Tech Stack Hardware Slots -->
+    <!-- Slot 1: C# -->
+    <g text-anchor="middle">
+      <rect x="20" y="46" width="113" height="68" rx="4" fill="#08140a" stroke="#256335" stroke-width="1.2">
+        <animate attributeName="stroke" values="#39ff6a;#1b4225;#1b4225;#1b4225;#1b4225;#1b4225;#39ff6a" dur="5.4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="76.5" y="79" font-size="19" font-weight="700" fill="#e2ffea">C#</text>
+      <text x="76.5" y="100" font-size="10.5" fill="#63a874">ana dil</text>
+    </g>
+
+    <!-- Slot 2: .NET -->
+    <g text-anchor="middle">
+      <rect x="143" y="46" width="113" height="68" rx="4" fill="#08140a" stroke="#256335" stroke-width="1.2">
+        <animate attributeName="stroke" values="#1b4225;#39ff6a;#1b4225;#1b4225;#1b4225;#1b4225;#1b4225" dur="5.4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="199.5" y="79" font-size="19" font-weight="700" fill="#e2ffea">.NET</text>
+      <text x="199.5" y="100" font-size="10.5" fill="#63a874">çekirdek</text>
+    </g>
+
+    <!-- Slot 3: Windows -->
+    <g text-anchor="middle">
+      <rect x="266" y="46" width="113" height="68" rx="4" fill="#08140a" stroke="#256335" stroke-width="1.2">
+        <animate attributeName="stroke" values="#1b4225;#1b4225;#39ff6a;#1b4225;#1b4225;#1b4225;#1b4225" dur="5.4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="322.5" y="79" font-size="17" font-weight="700" fill="#e2ffea">Windows</text>
+      <text x="322.5" y="100" font-size="10.5" fill="#63a874">sistem</text>
+    </g>
+
+    <!-- Slot 4: Python -->
+    <g text-anchor="middle">
+      <rect x="389" y="46" width="113" height="68" rx="4" fill="#08140a" stroke="#256335" stroke-width="1.2">
+        <animate attributeName="stroke" values="#1b4225;#1b4225;#1b4225;#39ff6a;#1b4225;#1b4225;#1b4225" dur="5.4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="445.5" y="79" font-size="17" font-weight="700" fill="#e2ffea">Python</text>
+      <text x="445.5" y="100" font-size="10.5" fill="#63a874">bot &amp; script</text>
+    </g>
+
+    <!-- Slot 5: JS / Web -->
+    <g text-anchor="middle">
+      <rect x="512" y="46" width="113" height="68" rx="4" fill="#08140a" stroke="#256335" stroke-width="1.2">
+        <animate attributeName="stroke" values="#1b4225;#1b4225;#1b4225;#1b4225;#39ff6a;#1b4225;#1b4225" dur="5.4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="568.5" y="79" font-size="16.5" font-weight="700" fill="#e2ffea">JS / Web</text>
+      <text x="568.5" y="100" font-size="10.5" fill="#63a874">arayüz</text>
+    </g>
+
+    <!-- Slot 6: VS -->
+    <g text-anchor="middle">
+      <rect x="635" y="46" width="113" height="68" rx="4" fill="#08140a" stroke="#256335" stroke-width="1.2">
+        <animate attributeName="stroke" values="#1b4225;#1b4225;#1b4225;#1b4225;#1b4225;#39ff6a;#1b4225" dur="5.4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="691.5" y="79" font-size="19" font-weight="700" fill="#e2ffea">VS</text>
+      <text x="691.5" y="100" font-size="10.5" fill="#63a874">derle &amp; kır</text>
+    </g>
+
+    <!-- Footer Status Bar -->
+    <line x1="18" y1="125" x2="750" y2="125" stroke="#17381f" stroke-width="1"/>
+    <circle cx="28" cy="139" r="3.5" fill="#39ff6a" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="40" y="143" font-size="11.5" fill="#9cf5b2">STATUS: aktif geliştirme · temiz otomasyon</text>
+
+    <!-- Animated Progress Telemetry Bar -->
+    <rect x="366" y="135" width="110" height="7" rx="3.5" fill="#0e2413"/>
+    <rect x="366" y="135" width="42" height="7" rx="3.5" fill="#39ff6a">
+      <animate attributeName="width" values="24;98;46;84;24" dur="3.6s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="746" y="143" text-anchor="end" font-size="11" fill="#529463">TR / EN  ·  @Real-P-Hamza</text>
+
+    <!-- Scanline Texture -->
+    <rect x="6" y="6" width="756" height="150" fill="url(#scanlines)"/>
+  </g>
+</svg>
